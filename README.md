@@ -1,2 +1,3 @@
 # CFract
-Calculator of ordinary fractions
+Calculator of ordinary fractions (Калькулятор обыкновенных дробей)
+Класс CFract предназначен для организации вычислений с обыкновенными дробями.
